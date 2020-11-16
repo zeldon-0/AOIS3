@@ -1,0 +1,4 @@
+E:\AOIS\AOIS3\BackEnd\Core\bin\Debug\netcoreapp3.1\Core.Domain.dll
+E:\AOIS\AOIS3\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+E:\AOIS\AOIS3\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+E:\AOIS\AOIS3\BackEnd\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs

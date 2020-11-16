@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "og8gulVHvTMZBHsAqHpZDEz9yW5i9uOjvshccOputfYcJhcf7RElKogLSsfF5G8t2Dd2iC2WBxT9U86mCRMTWQ==",
+  "success": true,
+  "projectFilePath": "E:\\AOIS\\AOIS3\\BackEnd\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vadym\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
