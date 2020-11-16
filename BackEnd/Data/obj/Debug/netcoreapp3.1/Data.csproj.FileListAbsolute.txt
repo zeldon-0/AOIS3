@@ -6,3 +6,12 @@ E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
 E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
 E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
 E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
+E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Data.pdb
+E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Core.dll
+E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Core.Domain.dll
+E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Core.Domain.pdb
+E:\AOIS\AOIS3\BackEnd\Data\bin\Debug\netcoreapp3.1\Core.pdb
+E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.dll
+E:\AOIS\AOIS3\BackEnd\Data\obj\Debug\netcoreapp3.1\Data.pdb

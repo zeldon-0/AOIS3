@@ -1,0 +1,9 @@
+E:\AOIS\AOIS3\BackEnd\Core.Domain\bin\Debug\netcoreapp3.1\Core.Domain.deps.json
+E:\AOIS\AOIS3\BackEnd\Core.Domain\bin\Debug\netcoreapp3.1\Core.Domain.dll
+E:\AOIS\AOIS3\BackEnd\Core.Domain\bin\Debug\netcoreapp3.1\Core.Domain.pdb
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.csprojAssemblyReference.cache
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.AssemblyInfoInputs.cache
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.AssemblyInfo.cs
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.csproj.CoreCompileInputs.cache
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.dll
+E:\AOIS\AOIS3\BackEnd\Core.Domain\obj\Debug\netcoreapp3.1\Core.Domain.pdb
