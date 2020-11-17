@@ -27,6 +27,12 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
+              "E:\\AOIS\\AOIS3\\BackEnd\\Core.Domain\\Core.Domain.csproj": {
+                "projectPath": "E:\\AOIS\\AOIS3\\BackEnd\\Core.Domain\\Core.Domain.csproj"
+              },
+              "E:\\AOIS\\AOIS3\\BackEnd\\Core\\Core.csproj": {
+                "projectPath": "E:\\AOIS\\AOIS3\\BackEnd\\Core\\Core.csproj"
+              },
               "E:\\AOIS\\AOIS3\\BackEnd\\Data\\Data.csproj": {
                 "projectPath": "E:\\AOIS\\AOIS3\\BackEnd\\Data\\Data.csproj"
               }
@@ -164,6 +170,18 @@
             "MathNet.Numerics": {
               "target": "Package",
               "version": "[4.12.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

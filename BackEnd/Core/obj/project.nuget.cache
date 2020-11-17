@@ -1,10 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "og8gulVHvTMZBHsAqHpZDEz9yW5i9uOjvshccOputfYcJhcf7RElKogLSsfF5G8t2Dd2iC2WBxT9U86mCRMTWQ==",
+  "dgSpecHash": "+euBonPOsYsTL4+K3TMx8A+CWQfUIlKjBSmDLK4QBxJnJZjGI3Yls79i0qp6riyuiBbMkP4lFGn1+SQYFjHAlA==",
   "success": true,
   "projectFilePath": "E:\\AOIS\\AOIS3\\BackEnd\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Vadym\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512"
+    "C:\\Users\\Vadym\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\Vadym\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

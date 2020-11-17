@@ -23,7 +23,7 @@ namespace Data.Repositories
             _context.Suffixes.Add(suffix);
         }
 
-        public async Task<Suffix> GetSuffixByValue(string value)
+        public async Task<Suffix> GetSuffixByValueAsync(string value)
         {
             Suffix suffix = await _context
                 .Suffixes

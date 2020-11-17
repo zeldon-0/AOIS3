@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using MathNet.Numerics.LinearAlgebra;
 
-namespace Core.NeuralNetwork
+namespace Core.NeuralNetworkImplementation
 {
     [Serializable]
     public class HiddenLayer

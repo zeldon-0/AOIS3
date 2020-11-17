@@ -88,3 +88,10 @@ E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\Data.pdb
 E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\Core.pdb
 E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\Core.Domain.pdb
 E:\AOIS\AOIS3\BackEnd\AOIS3\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\AOIS\AOIS3\BackEnd\AOIS3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll

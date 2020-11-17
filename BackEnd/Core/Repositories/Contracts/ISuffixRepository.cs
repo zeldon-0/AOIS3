@@ -8,7 +8,7 @@ namespace Core.Repositories.Contracts
 {
     public interface ISuffixRepository
     {
-        Task<Suffix> GetSuffixByValue(string value);
+        Task<Suffix> GetSuffixByValueAsync(string value);
         void AddSuffix(Suffix suffix);
     }
 }

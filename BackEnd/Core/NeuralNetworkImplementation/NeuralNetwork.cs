@@ -9,7 +9,7 @@ using System.Text.Json;
 using System.Threading.Tasks;
 using MathNet.Numerics.LinearAlgebra;
 
-namespace Core.NeuralNetwork
+namespace Core.NeuralNetworkImplementation
 {
     [Serializable]
     public class NeuralNetwork
@@ -97,25 +97,28 @@ namespace Core.NeuralNetwork
                 }
             }
         }
-        public void Classify(Matrix<double> input)
+        public int Classify(Matrix<double> input)
         {
             ForwardPass(input);
             Matrix<double> output = _activatedOutputs.Last();
             double max = 0;
+            int predictedClass = 0;
             for (int i = 0; i < 41; i++)
             {
                 if (output[0, i] > max)
                 {
                     max = output[0, i];
+                    predictedClass = i;
                 }
             }
-            for (int i = 0; i < 41; i ++)
+            /*for (int i = 0; i < 41; i ++)
             {
                 if (output[0, i] == max)
                 {
                     Console.WriteLine($"Predicted class:{i}");
                 }
-            }
+            }*/
+            return predictedClass;
         }
 
         private void UpdateWeights(List<Matrix<double>> weightChanges)
